@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to ABCD12134",
-    "section": "",
-    "text": "This is a website template for hosting Unit of Study content at The University of Sydney, aimed at providing an open, accessible, and flexible platform for teaching and learning. At the end of the course, unit coordinators have the option to zip the website and upload it to the University’s LMS (Canvas) for students to download and keep as a record of their learning."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello",
+    "section": "",
+    "text": "This is a website template for hosting Unit of Study content at The University of Sydney, aimed at providing an open, accessible, and flexible platform for teaching and learning. At the end of the course, unit coordinators have the option to zip the website and upload it to the University’s LMS (Canvas) for students to download and keep as a record of their learning.\nSteve is awesome by the way.\n\n\n\nOutline\n\n\n\nAssessments"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research\nWe do some kind of research here. I like to think of it as a kind of activity."
   }
 ]
